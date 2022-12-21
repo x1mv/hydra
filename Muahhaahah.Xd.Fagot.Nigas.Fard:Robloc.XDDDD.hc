@@ -1372,7 +1372,7 @@ local function getObjGen()
             Gui.Logo.LayoutOrder = -5
             Gui.Logo.Size = UDim2.new(1, 0, 0.100000001, 0)
             Gui.Logo.ZIndex = 122
-            Gui.Logo.Image = "http://www.roblox.com/asset/?id=8349124735"
+            Gui.Logo.Image = "http://www.roblox.com/asset/?id=896970081"
             Gui.Logo.ImageColor3 = Color3.fromRGB(134, 142, 255)
             Gui.Logo.ScaleType = Enum.ScaleType.Fit
 
